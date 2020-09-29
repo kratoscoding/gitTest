@@ -1,4 +1,7 @@
 # gitTest
+
+## การบ้าน Git ข้อที่ 1 และ สองรวมอยู่ใน readme.md นี้
+
 #Git-test-codecamp7
 ## title h2
 ### title h3
