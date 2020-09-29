@@ -2,6 +2,7 @@
 
 ## การบ้าน Git ข้อที่ 1 และ สองรวมอยู่ใน readme.md นี้
 ![link picture](1.1.jpg)
+[link picture](https://ibb.co/gFWSb0W)
 #Git-test-codecamp7
 ## title h2
 ### title h3
