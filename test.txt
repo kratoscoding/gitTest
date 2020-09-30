@@ -8,7 +8,6 @@ line 1
 >>>>>>> 9a8df16... edit text in test.txt
 =======
 feature-1
->>>>>>> d8c9585... add edit
 
 line 3
 
