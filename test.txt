@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 feature-2
 =======
 line 1
@@ -18,4 +19,12 @@ add line 10
 add line 12
 line 4
 
+=======
+hello
+
+codecamp
+
+people
+
+>>>>>>> a2a3d586c5ffc7776e23e1e5d98d222314f29f51
 line 5
