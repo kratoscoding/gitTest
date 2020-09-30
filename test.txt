@@ -40,4 +40,3 @@ line 8
 line 10
 
 line 12
->>>>>>> feature-1
