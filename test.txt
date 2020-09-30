@@ -1,8 +1,10 @@
+<<<<<<< HEAD
 feature-2
+=======
+line 1
+>>>>>>> 9a8df16... edit text in test.txt
 
-add line 2
-
-add line 3
+line 3
 
 add something different
 
@@ -12,3 +14,4 @@ add line 10
 add line 12
 line 4
 
+line 5
