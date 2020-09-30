@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 feature-2
 =======
 line 1
@@ -28,3 +29,17 @@ people
 
 >>>>>>> a2a3d586c5ffc7776e23e1e5d98d222314f29f51
 line 5
+=======
+feature-1
+
+codecamp
+
+teacher
+
+
+line 8
+
+line 10
+
+line 12
+>>>>>>> feature-1
