@@ -1,6 +1,6 @@
 # gitTest
 
-## การบ้าน Git ข้อที่ 1 และ สองรวมอยู่ใน readme.md นี้
+## การบ้าน Git ข้อที่ 1 และ 2 รวมอยู่ใน readme.md นี้
 ![link picture](1.1.jpg)
 [link picture](https://ibb.co/gFWSb0W)
 #Git-test-codecamp7
@@ -10,23 +10,11 @@
 ##### title h5
 ###### title h6
 
-texttext twx tsfgsd
-texttext twx tsfgsd
-texttext twx tsfgsd
+**ตัวหนา** ไม่หนา __ตัวหนา__
 
-**ตัวหนา**
-ไม่หนา
+_เอียง_ *เอียง* ไม่เอียง
 
-__ตัวหนา__
-
-
-
-_เอียง_
-*เอียง*   ไม่เอียง
-
-__*หนาด้วยเอียงด้วย*__
-
-***หนาด้วยเอียงด้วย*** ไม่หนาไม่เอียง
+__*หนาด้วยเอียงด้วย*__ ***หนาด้วยเอียงด้วย*** 
 
 **_content_**
 
@@ -37,9 +25,6 @@ __*หนาด้วยเอียงด้วย*__
 2. two
 3. three
 
->>content2
-
->content1
 + head
 - head
 * head
