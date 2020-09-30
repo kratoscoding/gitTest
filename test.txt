@@ -26,8 +26,6 @@ hello
 codecamp
 
 people
-
->>>>>>> a2a3d586c5ffc7776e23e1e5d98d222314f29f51
 line 5
 =======
 feature-1
