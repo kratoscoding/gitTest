@@ -2,4 +2,4 @@ hello
 
 codecamp
 
-student
+teacher
