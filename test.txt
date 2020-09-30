@@ -2,10 +2,6 @@ hello
 
 codecamp
 
-<<<<<<< HEAD
-line 4
+people
 
 line 5
-=======
-student
->>>>>>> feature-1
